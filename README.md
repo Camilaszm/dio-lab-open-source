@@ -16,7 +16,7 @@ Trabalho na RaiaDrogasil, como atendente I.
 *Ultimamente tenho me dedicado somente no bootcamp, ia para devs e python*
 
 
-📫 *Como entrar em contato comigo:*
+## "📫 *Como entrar em contato comigo:*"
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:camilaandrademss@gmail.com)
 
