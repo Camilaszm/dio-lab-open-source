@@ -18,7 +18,8 @@ Trabalho na RaiaDrogasil, como atendente I.
 *Ultimamente tenho me dedicado somente no bootcamp, ia para devs e python.*
 
 ✨ *Desejos*:
- *Espero trabalhar na area de desenvolvimento de sistemas, aprender um novo idioma e ter o máximo de conhecimento e diplomas possiveis para me tornar uma mulher idependente.
+
+ *Espero trabalhar na aréa de desenvolvimento de sistemas, aprender um novo ídioma e ter o máximo de conhecimento e diplomas possiveis para me tornar uma mulher idependente.*
 
 ## 📫 *Como entrar em contato comigo:*
 
