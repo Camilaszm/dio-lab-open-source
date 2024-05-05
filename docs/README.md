@@ -1,26 +1,26 @@
-Olá, eu sou a Camila! 👋
+## Olá, eu sou a Camila! 👋
 
-Estes são alguns detalhes sobre mim:
+## Estes são alguns detalhes sobre mim:
 
-👧 Idade:
+## 👧 Idade:
 
-21 anos.
+- 21 anos.
 
-👩‍💻 Trabalho atualmente:
+## 👩‍💻 Trabalho atualmente:
 
-Trabalho na RaiaDrogasil, como atendente I.
+- Trabalho na RaiaDrogasil, como atendente I.
 
-🧠 Conhecimento:
+## 🧠 Conhecimento:
 
-Ensino médio completo.
+- Ensino médio completo.
 
-Ultimamente tenho me dedicado somente no bootcamp, ia para devs e python.
+- Ultimamente tenho me dedicado somente no bootcamp, ia para devs e python.
 
-✨ Desejos:
+## ✨ Desejos:
 
-Espero trabalhar na aréa de desenvolvimento de sistemas, aprender um novo ídioma e ter o máximo de conhecimento e diplomas possiveis para me tornar uma mulher idependente.
+- Espero trabalhar na aréa de desenvolvimento de sistemas, aprender um novo ídioma e ter o máximo de conhecimento e diplomas possiveis para me tornar uma mulher idependente.
 
-📫 Como entrar em contato comigo:
+## 📫 Como entrar em contato comigo:
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:camilaandrademss@gmail.com)
 
@@ -30,10 +30,11 @@ Espero trabalhar na aréa de desenvolvimento de sistemas, aprender um novo ídio
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5511968880855)
 
-🚀 Sobre mim
-Sou uma pessoa fascinada por novos desafios, gosto de me aventurar tanto na vida profissional como pessoal, tenho facilidade de aprender coisas novas e trabalhar em equipe, sempre gostei da linguagem dos computadores e finalmente tenho o prazer de aprender mais sobre.
+## 🚀 Sobre mim
 
-📚Aprendizados:
+- Sou uma pessoa fascinada por novos desafios, gosto de me aventurar tanto na vida profissional como pessoal, tenho facilidade de aprender coisas novas e trabalhar em equipe, sempre gostei da linguagem dos computadores e finalmente tenho o prazer de aprender mais sobre.
+
+## 📚Aprendizados:
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
