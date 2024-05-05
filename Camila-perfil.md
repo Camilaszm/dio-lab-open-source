@@ -11,10 +11,14 @@
 
 Trabalho na RaiaDrogasil, como atendente I.
 
-🧠 *Estou aprendendo*:
+🧠 *Conhecimento:*
 
-*Ultimamente tenho me dedicado somente no bootcamp, ia para devs e python*
+ *Ensino médio completo.*
 
+*Ultimamente tenho me dedicado somente no bootcamp, ia para devs e python.*
+
+✨ *Desejos*:
+ *Espero trabalhar na area de desenvolvimento de sistemas, aprender um novo idioma e ter o máximo de conhecimento e diplomas possiveis para me tornar uma mulher idependente.
 
 ## 📫 *Como entrar em contato comigo:*
 
@@ -32,7 +36,7 @@ Trabalho na RaiaDrogasil, como atendente I.
 Sou uma pessoa fascinada por novos desafios, gosto de me aventurar tanto na vida profissional como pessoal, tenho facilidade de aprender coisas novas e trabalhar em equipe, sempre gostei da linguagem dos computadores e finalmente tenho o prazer de aprender mais sobre.
 
 
-## Aprendizados
+## 📚Aprendizados
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
